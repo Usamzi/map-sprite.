@@ -294,6 +294,10 @@
             "type": "Feature",
             "properties": {"n": "Rif Dimashq", "r": 7, "k": 7},
             "geometry": {"type": "Point", "coordinates": [37.073, 33.529]}
+          },{
+             "type": "Feature",
+             "properties": {"n": "Greenland", "r": 6, "k": 4},
+             "geometry": {"type": "Point", "coordinates": [-42.0, 72.0]}
           },
           {
             "type": "Feature",
@@ -12643,6 +12647,11 @@
             "type": "Feature",
             "properties": {"n": "Kingston upon Thames", "r": 10, "k": 9},
             "geometry": {"type": "Point", "coordinates": [-0.27, 51.392]}
+          },
+          {
+            "type": "Feature",
+            "properties": {"n": "Greenland", "r": 6, "k": 4},
+            "geometry": {"type": "Point", "coordinates": [-42.0, 72.0]}
           },
           {
             "type": "Feature",
